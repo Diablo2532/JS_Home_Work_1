@@ -76,4 +76,4 @@ let greeting = 'Hello';
 let userName = prompt('Веддіть свое імя :');
 let sumName = greeting + ',' + userName + '!';
 alert(sumName);
->>>>>>> thirdTask
+
