@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 // Температура повітря 
 let intTempe = 24 + '°' ;
 console.log('Air temperature:', intTempe); 
@@ -58,7 +58,6 @@ num++ ;
 console.log('num +1 :', num);
 num--;
 console.log('num -1 :', num);
-=======
 // 1
 let firstNumber = Number(prompt ('Введіть число:'));
 let square = firstNumber ** 2;
